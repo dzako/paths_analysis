@@ -48,6 +48,14 @@ def ind(string):
         return 12
     if( string == 'avg_b' ):
         return 13
+    if( string == 'b_x'):
+        return 14
+    if( string == 'b_y'):
+        return 15
+    if( string == 'd_x'):
+        return 16
+    if( string == 'd_y'):
+        return 17
 
 def load_paths(matchcvsdir):
     matches_sub = []
@@ -60,7 +68,7 @@ def load_paths(matchcvsdir):
             matches_sub_loc = []  
             datasub = pd.read_csv( matchcvsdir + filen )
             for cntsub in range( 0,datasub.shape[0] ):            
-                matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], datasub.loc[cntsub, 'dim'], datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'] ])        
+                matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], datasub.loc[cntsub, 'dim'], datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'], datasub.loc[cntsub, 'b_x'], datasub.loc[cntsub, 'b_y'], datasub.loc[cntsub, 'd_x'], datasub.loc[cntsub, 'd_y'] ])
             matches_sub_loc = np.asarray(matches_sub_loc)
             matches_sub.append(matches_sub_loc)
     
@@ -84,8 +92,12 @@ def load_paths(matchcvsdir):
                     paths[ppidx][ind('death')].append( row[9])
                     paths[ppidx][ind('b_lyap')].append( row[5])
                     paths[ppidx][ind('d_lyap')].append( row[6])
+                    paths[ppidx][ind('b_x')].append( row[10])
+                    paths[ppidx][ind('b_y')].append( row[11])
+                    paths[ppidx][ind('d_x')].append(row[12])
+                    paths[ppidx][ind('d_y')].append(row[13])
                 else: #create a new path
-                    paths.append( [ [ row[1], row[7] ], i, i+1, row[2], [ row[3], row[8] ], [ row[4], row[9] ], [ row[5] ], [ row[6] ], 0, 0, 0, 0, 0, 0 ] )
+                    paths.append( [ [ row[1], row[7] ], i, i+1, row[2], [ row[3], row[8] ], [ row[4], row[9] ], [ row[5] ], [ row[6] ], 0, 0, 0, 0, 0, 0, [ row[10] ], [ row[11] ], [ row[12] ], [ row[13] ] ] )
                     appind.append(len(paths)-1)                
        
         diff = np.setxor1d( appind, list(range(len(paths))) )
