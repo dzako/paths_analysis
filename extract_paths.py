@@ -56,6 +56,8 @@ def ind(string):
         return 16
     if( string == 'd_y'):
         return 17
+    if( string == 'minblobdist'):
+        return 18
 
 def load_paths(matchcvsdir):
     matches_sub = []
