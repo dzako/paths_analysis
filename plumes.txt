@@ -14,7 +14,8 @@ begin frame #:
 9
 end frame #:
 45
-min dist to a lyapunov blob=25.0
+min dist to a lyapunov blob:
+25.0
 
 
 plume #151
@@ -31,7 +32,8 @@ begin frame #:
 34
 end frame #:
 106
-min dist to a lyapunov blob=72.0
+min dist to a lyapunov blob:
+72.0
 
 
 plume #155
@@ -48,7 +50,8 @@ begin frame #:
 36
 end frame #:
 73
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #212
@@ -65,7 +68,8 @@ begin frame #:
 124
 end frame #:
 210
-min dist to a lyapunov blob=86.0
+min dist to a lyapunov blob:
+86.0
 
 
 plume #222
@@ -82,7 +86,8 @@ begin frame #:
 150
 end frame #:
 240
-min dist to a lyapunov blob=67.0
+min dist to a lyapunov blob:
+67.0
 
 
 plume #233
@@ -99,7 +104,8 @@ begin frame #:
 176
 end frame #:
 244
-min dist to a lyapunov blob=6.0
+min dist to a lyapunov blob:
+6.0
 
 
 plume #234
@@ -116,7 +122,8 @@ begin frame #:
 177
 end frame #:
 368
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #249
@@ -133,7 +140,8 @@ begin frame #:
 205
 end frame #:
 343
-min dist to a lyapunov blob=123.0
+min dist to a lyapunov blob:
+123.0
 
 
 plume #250
@@ -150,7 +158,8 @@ begin frame #:
 205
 end frame #:
 612
-min dist to a lyapunov blob=19.0
+min dist to a lyapunov blob:
+19.0
 
 
 plume #272
@@ -167,7 +176,8 @@ begin frame #:
 259
 end frame #:
 286
-min dist to a lyapunov blob=27.0
+min dist to a lyapunov blob:
+27.0
 
 
 plume #274
@@ -184,7 +194,8 @@ begin frame #:
 263
 end frame #:
 298
-min dist to a lyapunov blob=35.0
+min dist to a lyapunov blob:
+35.0
 
 
 plume #277
@@ -201,7 +212,8 @@ begin frame #:
 266
 end frame #:
 334
-min dist to a lyapunov blob=68.0
+min dist to a lyapunov blob:
+68.0
 
 
 plume #285
@@ -218,7 +230,8 @@ begin frame #:
 279
 end frame #:
 414
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #301
@@ -235,7 +248,8 @@ begin frame #:
 299
 end frame #:
 364
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #329
@@ -252,7 +266,8 @@ begin frame #:
 321
 end frame #:
 359
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #351
@@ -269,7 +284,8 @@ begin frame #:
 345
 end frame #:
 391
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #355
@@ -286,7 +302,8 @@ begin frame #:
 347
 end frame #:
 464
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #361
@@ -303,7 +320,8 @@ begin frame #:
 353
 end frame #:
 685
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #364
@@ -320,7 +338,8 @@ begin frame #:
 354
 end frame #:
 397
-min dist to a lyapunov blob=9.0
+min dist to a lyapunov blob:
+9.0
 
 
 plume #391
@@ -337,7 +356,8 @@ begin frame #:
 375
 end frame #:
 487
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #393
@@ -354,7 +374,8 @@ begin frame #:
 376
 end frame #:
 429
-min dist to a lyapunov blob=35.0
+min dist to a lyapunov blob:
+35.0
 
 
 plume #396
@@ -371,7 +392,8 @@ begin frame #:
 378
 end frame #:
 430
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #407
@@ -388,7 +410,8 @@ begin frame #:
 386
 end frame #:
 453
-min dist to a lyapunov blob=58.0
+min dist to a lyapunov blob:
+58.0
 
 
 plume #430
@@ -405,7 +428,8 @@ begin frame #:
 416
 end frame #:
 435
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #443
@@ -422,7 +446,8 @@ begin frame #:
 435
 end frame #:
 629
-min dist to a lyapunov blob=1.0
+min dist to a lyapunov blob:
+1.0
 
 
 plume #444
@@ -439,7 +464,8 @@ begin frame #:
 436
 end frame #:
 982
-min dist to a lyapunov blob=101.0
+min dist to a lyapunov blob:
+101.0
 
 
 plume #455
@@ -456,7 +482,8 @@ begin frame #:
 451
 end frame #:
 571
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #459
@@ -473,7 +500,8 @@ begin frame #:
 452
 end frame #:
 572
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #484
@@ -490,7 +518,8 @@ begin frame #:
 475
 end frame #:
 518
-min dist to a lyapunov blob=22.0
+min dist to a lyapunov blob:
+22.0
 
 
 plume #498
@@ -507,7 +536,8 @@ begin frame #:
 491
 end frame #:
 543
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #499
@@ -524,7 +554,8 @@ begin frame #:
 495
 end frame #:
 596
-min dist to a lyapunov blob=37.0
+min dist to a lyapunov blob:
+37.0
 
 
 plume #528
@@ -541,7 +572,8 @@ begin frame #:
 521
 end frame #:
 569
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #540
@@ -558,7 +590,8 @@ begin frame #:
 530
 end frame #:
 580
-min dist to a lyapunov blob=22.0
+min dist to a lyapunov blob:
+22.0
 
 
 plume #543
@@ -575,7 +608,8 @@ begin frame #:
 532
 end frame #:
 606
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #563
@@ -592,7 +626,8 @@ begin frame #:
 548
 end frame #:
 578
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #572
@@ -609,7 +644,8 @@ begin frame #:
 558
 end frame #:
 682
-min dist to a lyapunov blob=8.0
+min dist to a lyapunov blob:
+8.0
 
 
 plume #601
@@ -626,7 +662,8 @@ begin frame #:
 573
 end frame #:
 656
-min dist to a lyapunov blob=4.0
+min dist to a lyapunov blob:
+4.0
 
 
 plume #615
@@ -643,7 +680,8 @@ begin frame #:
 591
 end frame #:
 900
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #642
@@ -660,7 +698,8 @@ begin frame #:
 615
 end frame #:
 661
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #643
@@ -677,7 +716,8 @@ begin frame #:
 616
 end frame #:
 737
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #688
@@ -694,7 +734,8 @@ begin frame #:
 645
 end frame #:
 722
-min dist to a lyapunov blob=2.0
+min dist to a lyapunov blob:
+2.0
 
 
 plume #701
@@ -711,7 +752,8 @@ begin frame #:
 654
 end frame #:
 703
-min dist to a lyapunov blob=34.0
+min dist to a lyapunov blob:
+34.0
 
 
 plume #706
@@ -728,7 +770,8 @@ begin frame #:
 657
 end frame #:
 743
-min dist to a lyapunov blob=61.0
+min dist to a lyapunov blob:
+61.0
 
 
 plume #707
@@ -745,7 +788,8 @@ begin frame #:
 657
 end frame #:
 720
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #709
@@ -762,7 +806,8 @@ begin frame #:
 659
 end frame #:
 899
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #714
@@ -779,7 +824,8 @@ begin frame #:
 664
 end frame #:
 704
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #727
@@ -796,7 +842,8 @@ begin frame #:
 671
 end frame #:
 703
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #771
@@ -813,7 +860,8 @@ begin frame #:
 706
 end frame #:
 849
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #778
@@ -830,7 +878,8 @@ begin frame #:
 713
 end frame #:
 761
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #820
@@ -847,7 +896,8 @@ begin frame #:
 749
 end frame #:
 901
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #823
@@ -864,7 +914,8 @@ begin frame #:
 752
 end frame #:
 849
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #843
@@ -881,7 +932,8 @@ begin frame #:
 761
 end frame #:
 837
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #845
@@ -898,7 +950,8 @@ begin frame #:
 765
 end frame #:
 822
-min dist to a lyapunov blob=57.0
+min dist to a lyapunov blob:
+57.0
 
 
 plume #871
@@ -915,7 +968,8 @@ begin frame #:
 786
 end frame #:
 827
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #887
@@ -932,7 +986,8 @@ begin frame #:
 800
 end frame #:
 814
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #888
@@ -949,7 +1004,8 @@ begin frame #:
 801
 end frame #:
 1036
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #895
@@ -966,7 +1022,8 @@ begin frame #:
 804
 end frame #:
 844
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #907
@@ -983,11 +1040,13 @@ begin frame #:
 811
 end frame #:
 845
-min dist to a lyapunov blob=8.0
+min dist to a lyapunov blob:
+8.0
 
 
 plume #933
 dark plume (H0)
+
 birth coordinates:
 [133, 130, 127, 124, 121, 118, 116, 113, 111, 109, 107, 105, 103, 102, 100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 89, 88, 87, 86, 86, 85, 85, 84, 83, 83, 82, 82, 81, 81, 80, 80, 80, 79, 79, 78, 78, 78, 77, 77, 77, 77, 76, 76, 76, 76, 75, 75, 75, 75, 75, 75, 75, 75, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 74, 75, 75, 75, 75, 75, 75, 75, 75, 75, 75]
 death coordinates:
@@ -1000,7 +1059,8 @@ begin frame #:
 834
 end frame #:
 918
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #983
@@ -1017,7 +1077,8 @@ begin frame #:
 876
 end frame #:
 928
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #987
@@ -1034,7 +1095,8 @@ begin frame #:
 881
 end frame #:
 1761
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #995
@@ -1050,9 +1112,9 @@ b_y coordinates:
 begin frame #:
 890
 end frame #:
-
 961
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1051
@@ -1069,7 +1131,8 @@ begin frame #:
 932
 end frame #:
 1266
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1054
@@ -1086,7 +1149,8 @@ begin frame #:
 935
 end frame #:
 1036
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1071
@@ -1103,7 +1167,8 @@ begin frame #:
 959
 end frame #:
 1011
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1088
@@ -1120,7 +1185,8 @@ begin frame #:
 971
 end frame #:
 1001
-min dist to a lyapunov blob=30.0
+min dist to a lyapunov blob:
+30.0
 
 
 plume #1092
@@ -1137,7 +1203,8 @@ begin frame #:
 975
 end frame #:
 1025
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1119
@@ -1154,7 +1221,8 @@ begin frame #:
 1002
 end frame #:
 1109
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1135
@@ -1171,7 +1239,8 @@ begin frame #:
 1019
 end frame #:
 1064
-min dist to a lyapunov blob=22.0
+min dist to a lyapunov blob:
+22.0
 
 
 plume #1147
@@ -1188,7 +1257,8 @@ begin frame #:
 1029
 end frame #:
 1067
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1171
@@ -1205,7 +1275,8 @@ begin frame #:
 1055
 end frame #:
 1232
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1195
@@ -1222,7 +1293,8 @@ begin frame #:
 1070
 end frame #:
 1115
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1222
@@ -1239,7 +1311,8 @@ begin frame #:
 1087
 end frame #:
 1117
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1229
@@ -1256,7 +1329,8 @@ begin frame #:
 1098
 end frame #:
 1220
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1251
@@ -1273,7 +1347,8 @@ begin frame #:
 1118
 end frame #:
 1173
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1258
@@ -1290,7 +1365,8 @@ begin frame #:
 1121
 end frame #:
 1174
-min dist to a lyapunov blob=53.0
+min dist to a lyapunov blob:
+53.0
 
 
 plume #1279
@@ -1307,7 +1383,8 @@ begin frame #:
 1136
 end frame #:
 1601
-min dist to a lyapunov blob=53.0
+min dist to a lyapunov blob:
+53.0
 
 
 plume #1312
@@ -1324,7 +1401,8 @@ begin frame #:
 1164
 end frame #:
 1383
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1315
@@ -1341,7 +1419,8 @@ begin frame #:
 1166
 end frame #:
 1202
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1329
@@ -1358,7 +1437,8 @@ begin frame #:
 1177
 end frame #:
 1208
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1363
@@ -1375,7 +1455,8 @@ begin frame #:
 1211
 end frame #:
 1651
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1364
@@ -1392,7 +1473,8 @@ begin frame #:
 1212
 end frame #:
 1221
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1408
@@ -1409,7 +1491,8 @@ begin frame #:
 1241
 end frame #:
 1313
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1424
@@ -1426,7 +1509,8 @@ begin frame #:
 1254
 end frame #:
 1284
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1449
@@ -1443,7 +1527,8 @@ begin frame #:
 1274
 end frame #:
 1307
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1468
@@ -1460,7 +1545,8 @@ begin frame #:
 1290
 end frame #:
 1331
-min dist to a lyapunov blob=30.0
+min dist to a lyapunov blob:
+30.0
 
 
 plume #1493
@@ -1477,7 +1563,8 @@ begin frame #:
 1329
 end frame #:
 1363
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1515
@@ -1494,7 +1581,8 @@ begin frame #:
 1347
 end frame #:
 1369
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1533
@@ -1511,7 +1599,8 @@ begin frame #:
 1367
 end frame #:
 1507
-min dist to a lyapunov blob=137.0
+min dist to a lyapunov blob:
+137.0
 
 
 plume #1570
@@ -1528,7 +1617,8 @@ begin frame #:
 1409
 end frame #:
 1459
-min dist to a lyapunov blob=27.0
+min dist to a lyapunov blob:
+27.0
 
 
 plume #1591
@@ -1545,7 +1635,8 @@ begin frame #:
 1443
 end frame #:
 1488
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1609
@@ -1562,7 +1653,8 @@ begin frame #:
 1473
 end frame #:
 1664
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1664
@@ -1579,7 +1671,8 @@ begin frame #:
 1535
 end frame #:
 1561
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1784
@@ -1596,7 +1689,8 @@ begin frame #:
 1663
 end frame #:
 1700
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1788
@@ -1613,7 +1707,8 @@ begin frame #:
 1667
 end frame #:
 1684
-min dist to a lyapunov blob=7.0
+min dist to a lyapunov blob:
+7.0
 
 
 plume #1798
@@ -1630,7 +1725,8 @@ begin frame #:
 1674
 end frame #:
 1742
-min dist to a lyapunov blob=14.0
+min dist to a lyapunov blob:
+14.0
 
 
 plume #1804
@@ -1647,7 +1743,8 @@ begin frame #:
 1686
 end frame #:
 1727
-min dist to a lyapunov blob=19.0
+min dist to a lyapunov blob:
+19.0
 
 
 plume #1818
@@ -1664,7 +1761,8 @@ begin frame #:
 1712
 end frame #:
 1857
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1819
@@ -1681,7 +1779,8 @@ begin frame #:
 1713
 end frame #:
 1779
-min dist to a lyapunov blob=66.0
+min dist to a lyapunov blob:
+66.0
 
 
 plume #1835
@@ -1698,7 +1797,8 @@ begin frame #:
 1733
 end frame #:
 1871
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1909
@@ -1715,7 +1815,8 @@ begin frame #:
 1815
 end frame #:
 1875
-min dist to a lyapunov blob=60.0
+min dist to a lyapunov blob:
+60.0
 
 
 plume #1916
@@ -1732,7 +1833,8 @@ begin frame #:
 1819
 end frame #:
 1878
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #1956
@@ -1749,7 +1851,8 @@ begin frame #:
 1866
 end frame #:
 2069
-min dist to a lyapunov blob=133.0
+min dist to a lyapunov blob:
+133.0
 
 
 plume #1984
@@ -1766,7 +1869,8 @@ begin frame #:
 1902
 end frame #:
 2085
-min dist to a lyapunov blob=146.0
+min dist to a lyapunov blob:
+146.0
 
 
 plume #2011
@@ -1783,7 +1887,8 @@ begin frame #:
 1939
 end frame #:
 2299
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2042
@@ -1800,7 +1905,8 @@ begin frame #:
 1970
 end frame #:
 2079
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2082
@@ -1817,7 +1923,8 @@ begin frame #:
 2046
 end frame #:
 2731
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2107
@@ -1834,7 +1941,8 @@ begin frame #:
 2076
 end frame #:
 2193
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2131
@@ -1851,7 +1959,8 @@ begin frame #:
 2108
 end frame #:
 2267
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2140
@@ -1868,7 +1977,8 @@ begin frame #:
 2116
 end frame #:
 2128
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2184
@@ -1885,7 +1995,8 @@ begin frame #:
 2169
 end frame #:
 2214
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2213
@@ -1902,7 +2013,8 @@ begin frame #:
 2204
 end frame #:
 3247
-min dist to a lyapunov blob=156.0
+min dist to a lyapunov blob:
+156.0
 
 
 plume #2233
@@ -1919,7 +2031,8 @@ begin frame #:
 2242
 end frame #:
 2284
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2327
@@ -1936,7 +2049,8 @@ begin frame #:
 2371
 end frame #:
 2398
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2331
@@ -1953,7 +2067,8 @@ begin frame #:
 2375
 end frame #:
 2444
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2342
@@ -1970,7 +2085,8 @@ begin frame #:
 2387
 end frame #:
 3028
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2359
@@ -1987,7 +2103,8 @@ begin frame #:
 2416
 end frame #:
 2458
-min dist to a lyapunov blob=3.0
+min dist to a lyapunov blob:
+3.0
 
 
 plume #2361
@@ -2004,7 +2121,8 @@ begin frame #:
 2423
 end frame #:
 2461
-min dist to a lyapunov blob=21.0
+min dist to a lyapunov blob:
+21.0
 
 
 plume #2374
@@ -2021,7 +2139,8 @@ begin frame #:
 2445
 end frame #:
 2727
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2395
@@ -2038,7 +2157,8 @@ begin frame #:
 2465
 end frame #:
 3136
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2403
@@ -2055,7 +2175,8 @@ begin frame #:
 2476
 end frame #:
 2516
-min dist to a lyapunov blob=35.0
+min dist to a lyapunov blob:
+35.0
 
 
 plume #2404
@@ -2072,7 +2193,8 @@ begin frame #:
 2477
 end frame #:
 2585
-min dist to a lyapunov blob=26.0
+min dist to a lyapunov blob:
+26.0
 
 
 plume #2432
@@ -2089,7 +2211,8 @@ begin frame #:
 2524
 end frame #:
 2630
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2454
@@ -2106,7 +2229,8 @@ begin frame #:
 2583
 end frame #:
 3020
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2474
@@ -2123,7 +2247,8 @@ begin frame #:
 2602
 end frame #:
 2661
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2497
@@ -2140,7 +2265,8 @@ begin frame #:
 2639
 end frame #:
 2724
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2519
@@ -2157,7 +2283,8 @@ begin frame #:
 2661
 end frame #:
 2691
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2538
@@ -2174,7 +2301,8 @@ begin frame #:
 2679
 end frame #:
 2806
-min dist to a lyapunov blob=127.0
+min dist to a lyapunov blob:
+127.0
 
 
 plume #2611
@@ -2191,7 +2319,8 @@ begin frame #:
 2758
 end frame #:
 2811
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2614
@@ -2208,7 +2337,8 @@ begin frame #:
 2760
 end frame #:
 2870
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2760
@@ -2225,7 +2355,8 @@ begin frame #:
 2932
 end frame #:
 3024
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2765
@@ -2242,7 +2373,8 @@ begin frame #:
 2941
 end frame #:
 2992
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2784
@@ -2259,7 +2391,8 @@ begin frame #:
 2976
 end frame #:
 3049
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2795
@@ -2276,7 +2409,8 @@ begin frame #:
 3007
 end frame #:
 3515
-min dist to a lyapunov blob=506.0
+min dist to a lyapunov blob:
+506.0
 
 
 plume #2809
@@ -2293,7 +2427,8 @@ begin frame #:
 3048
 end frame #:
 3088
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2829
@@ -2310,7 +2445,8 @@ begin frame #:
 3074
 end frame #:
 3361
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2865
@@ -2327,7 +2463,8 @@ begin frame #:
 3130
 end frame #:
 3315
-min dist to a lyapunov blob=16.0
+min dist to a lyapunov blob:
+16.0
 
 
 plume #2882
@@ -2344,7 +2481,8 @@ begin frame #:
 3160
 end frame #:
 3235
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2891
@@ -2361,7 +2499,8 @@ begin frame #:
 3171
 end frame #:
 3223
-min dist to a lyapunov blob=52.0
+min dist to a lyapunov blob:
+52.0
 
 
 plume #2893
@@ -2378,7 +2517,8 @@ begin frame #:
 3180
 end frame #:
 3776
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2905
@@ -2395,7 +2535,8 @@ begin frame #:
 3192
 end frame #:
 3228
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2907
@@ -2412,7 +2553,8 @@ begin frame #:
 3193
 end frame #:
 3252
-min dist to a lyapunov blob=59.0
+min dist to a lyapunov blob:
+59.0
 
 
 plume #2977
@@ -2429,7 +2571,8 @@ begin frame #:
 3283
 end frame #:
 3439
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2978
@@ -2446,7 +2589,8 @@ begin frame #:
 3285
 end frame #:
 3327
-min dist to a lyapunov blob=41.0
+min dist to a lyapunov blob:
+41.0
 
 
 plume #2979
@@ -2463,7 +2607,8 @@ begin frame #:
 3287
 end frame #:
 3383
-min dist to a lyapunov blob=96.0
+min dist to a lyapunov blob:
+96.0
 
 
 plume #2980
@@ -2480,7 +2625,8 @@ begin frame #:
 3288
 end frame #:
 3328
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #2995
@@ -2497,7 +2643,8 @@ begin frame #:
 3302
 end frame #:
 3319
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3028
@@ -2514,7 +2661,8 @@ begin frame #:
 3325
 end frame #:
 3362
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3055
@@ -2531,7 +2679,8 @@ begin frame #:
 3342
 end frame #:
 3856
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3070
@@ -2548,7 +2697,8 @@ begin frame #:
 3356
 end frame #:
 3483
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3085
@@ -2565,7 +2715,8 @@ begin frame #:
 3378
 end frame #:
 3476
-min dist to a lyapunov blob=98.0
+min dist to a lyapunov blob:
+98.0
 
 
 plume #3115
@@ -2582,7 +2733,8 @@ begin frame #:
 3400
 end frame #:
 3450
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3124
@@ -2599,7 +2751,8 @@ begin frame #:
 3415
 end frame #:
 3432
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3159
@@ -2616,7 +2769,8 @@ begin frame #:
 3452
 end frame #:
 3502
-min dist to a lyapunov blob=50.0
+min dist to a lyapunov blob:
+50.0
 
 
 plume #3168
@@ -2633,7 +2787,8 @@ begin frame #:
 3468
 end frame #:
 3553
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3201
@@ -2650,7 +2805,8 @@ begin frame #:
 3500
 end frame #:
 3525
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3221
@@ -2667,7 +2823,8 @@ begin frame #:
 3537
 end frame #:
 3600
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3233
@@ -2684,7 +2841,8 @@ begin frame #:
 3543
 end frame #:
 3571
-min dist to a lyapunov blob=28.0
+min dist to a lyapunov blob:
+28.0
 
 
 plume #3254
@@ -2701,7 +2859,8 @@ begin frame #:
 3569
 end frame #:
 3757
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3270
@@ -2718,7 +2877,8 @@ begin frame #:
 3588
 end frame #:
 3668
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3271
@@ -2735,7 +2895,8 @@ begin frame #:
 3594
 end frame #:
 3836
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3283
@@ -2752,7 +2913,8 @@ begin frame #:
 3603
 end frame #:
 3681
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3290
@@ -2769,7 +2931,8 @@ begin frame #:
 3613
 end frame #:
 3961
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3293
@@ -2786,7 +2949,8 @@ begin frame #:
 3616
 end frame #:
 3820
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3295
@@ -2803,7 +2967,8 @@ begin frame #:
 3620
 end frame #:
 4300
-min dist to a lyapunov blob=479.0
+min dist to a lyapunov blob:
+479.0
 
 
 plume #3296
@@ -2820,7 +2985,8 @@ begin frame #:
 3621
 end frame #:
 3666
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3310
@@ -2837,7 +3003,8 @@ begin frame #:
 3641
 end frame #:
 3664
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3365
@@ -2854,7 +3021,8 @@ begin frame #:
 3698
 end frame #:
 3728
-min dist to a lyapunov blob=30.0
+min dist to a lyapunov blob:
+30.0
 
 
 plume #3369
@@ -2871,7 +3039,8 @@ begin frame #:
 3701
 end frame #:
 3761
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3381
@@ -2888,7 +3057,8 @@ begin frame #:
 3714
 end frame #:
 3964
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3401
@@ -2905,7 +3075,8 @@ begin frame #:
 3735
 end frame #:
 3791
-min dist to a lyapunov blob=33.0
+min dist to a lyapunov blob:
+33.0
 
 
 plume #3444
@@ -2922,7 +3093,8 @@ begin frame #:
 3783
 end frame #:
 3805
-min dist to a lyapunov blob=22.0
+min dist to a lyapunov blob:
+22.0
 
 
 plume #3482
@@ -2938,9 +3110,9 @@ b_y coordinates:
 begin frame #:
 3821
 end frame #:
-
 3857
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3537
@@ -2957,7 +3129,8 @@ begin frame #:
 3859
 end frame #:
 3960
-min dist to a lyapunov blob=74.0
+min dist to a lyapunov blob:
+74.0
 
 
 plume #3539
@@ -2974,7 +3147,8 @@ begin frame #:
 3862
 end frame #:
 3911
-min dist to a lyapunov blob=49.0
+min dist to a lyapunov blob:
+49.0
 
 
 plume #3562
@@ -2991,7 +3165,8 @@ begin frame #:
 3880
 end frame #:
 4302
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3589
@@ -3008,7 +3183,8 @@ begin frame #:
 3906
 end frame #:
 3961
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3610
@@ -3025,7 +3201,8 @@ begin frame #:
 3928
 end frame #:
 4032
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3611
@@ -3042,7 +3219,8 @@ begin frame #:
 3931
 end frame #:
 3958
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3616
@@ -3059,7 +3237,8 @@ begin frame #:
 3933
 end frame #:
 3968
-min dist to a lyapunov blob=35.0
+min dist to a lyapunov blob:
+35.0
 
 
 plume #3659
@@ -3076,7 +3255,8 @@ begin frame #:
 3986
 end frame #:
 4237
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3670
@@ -3093,7 +3273,8 @@ begin frame #:
 4005
 end frame #:
 4073
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3674
@@ -3110,7 +3291,8 @@ begin frame #:
 4012
 end frame #:
 4084
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3678
@@ -3127,7 +3309,8 @@ begin frame #:
 4017
 end frame #:
 4057
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3679
@@ -3144,7 +3327,8 @@ begin frame #:
 4019
 end frame #:
 4042
-min dist to a lyapunov blob=23.0
+min dist to a lyapunov blob:
+23.0
 
 
 plume #3684
@@ -3161,7 +3345,8 @@ begin frame #:
 4032
 end frame #:
 4096
-min dist to a lyapunov blob=11.0
+min dist to a lyapunov blob:
+11.0
 
 
 plume #3689
@@ -3178,7 +3363,8 @@ begin frame #:
 4039
 end frame #:
 4052
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3700
@@ -3195,7 +3381,8 @@ begin frame #:
 4056
 end frame #:
 4137
-min dist to a lyapunov blob=13.0
+min dist to a lyapunov blob:
+13.0
 
 
 plume #3701
@@ -3212,7 +3399,8 @@ begin frame #:
 4059
 end frame #:
 4224
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3726
@@ -3226,10 +3414,12 @@ b_x coordinates:
 b_y coordinates:
 [212, 212, 212, 212, 212, 212, 212, 212, 212, 213, 213, 213, 213, 213, 213, 213, 213, 213, 213, 213, 213, 213, 214, 214, 214, 214, 214, 214, 214, 214, 214, 214, 215, 214, 214, 214, 215, 215, 215, 214, 215, 215, 215, 215, 216, 215, 215, 215, 216, 216, 216, 216, 215, 216, 216, 216, 216, 216, 216, 216, 217, 217, 216, 216, 217]
 begin frame #:
+
 4090
 end frame #:
 4155
-min dist to a lyapunov blob=64.0
+min dist to a lyapunov blob:
+64.0
 
 
 plume #3734
@@ -3246,7 +3436,8 @@ begin frame #:
 4100
 end frame #:
 4340
-min dist to a lyapunov blob=14.0
+min dist to a lyapunov blob:
+14.0
 
 
 plume #3754
@@ -3263,7 +3454,8 @@ begin frame #:
 4120
 end frame #:
 4136
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3774
@@ -3280,7 +3472,8 @@ begin frame #:
 4141
 end frame #:
 4159
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3777
@@ -3297,7 +3490,8 @@ begin frame #:
 4144
 end frame #:
 4383
-min dist to a lyapunov blob=20.0
+min dist to a lyapunov blob:
+20.0
 
 
 plume #3782
@@ -3314,7 +3508,8 @@ begin frame #:
 4151
 end frame #:
 4208
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3787
@@ -3331,7 +3526,8 @@ begin frame #:
 4156
 end frame #:
 4244
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3797
@@ -3348,7 +3544,8 @@ begin frame #:
 4169
 end frame #:
 4209
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3800
@@ -3365,7 +3562,8 @@ begin frame #:
 4174
 end frame #:
 4238
-min dist to a lyapunov blob=23.0
+min dist to a lyapunov blob:
+23.0
 
 
 plume #3802
@@ -3382,7 +3580,8 @@ begin frame #:
 4179
 end frame #:
 5081
-min dist to a lyapunov blob=166.0
+min dist to a lyapunov blob:
+166.0
 
 
 plume #3807
@@ -3399,7 +3598,8 @@ begin frame #:
 4182
 end frame #:
 4299
-min dist to a lyapunov blob=37.0
+min dist to a lyapunov blob:
+37.0
 
 
 plume #3825
@@ -3416,7 +3616,8 @@ begin frame #:
 4195
 end frame #:
 4241
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3843
@@ -3433,7 +3634,8 @@ begin frame #:
 4234
 end frame #:
 4673
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3872
@@ -3450,7 +3652,8 @@ begin frame #:
 4269
 end frame #:
 4299
-min dist to a lyapunov blob=30.0
+min dist to a lyapunov blob:
+30.0
 
 
 plume #3877
@@ -3467,7 +3670,8 @@ begin frame #:
 4274
 end frame #:
 4345
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3916
@@ -3484,7 +3688,8 @@ begin frame #:
 4317
 end frame #:
 4349
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3917
@@ -3501,7 +3706,8 @@ begin frame #:
 4318
 end frame #:
 4675
-min dist to a lyapunov blob=228.0
+min dist to a lyapunov blob:
+228.0
 
 
 plume #3920
@@ -3518,7 +3724,8 @@ begin frame #:
 4320
 end frame #:
 5018
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #3995
@@ -3535,7 +3742,8 @@ begin frame #:
 4437
 end frame #:
 4557
-min dist to a lyapunov blob=91.0
+min dist to a lyapunov blob:
+91.0
 
 
 plume #4052
@@ -3552,7 +3760,8 @@ begin frame #:
 4506
 end frame #:
 5053
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4093
@@ -3569,7 +3778,8 @@ begin frame #:
 4592
 end frame #:
 4674
-min dist to a lyapunov blob=16.0
+min dist to a lyapunov blob:
+16.0
 
 
 plume #4096
@@ -3586,7 +3796,8 @@ begin frame #:
 4605
 end frame #:
 4620
-min dist to a lyapunov blob=15.0
+min dist to a lyapunov blob:
+15.0
 
 
 plume #4097
@@ -3603,7 +3814,8 @@ begin frame #:
 4611
 end frame #:
 4919
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4124
@@ -3620,7 +3832,8 @@ begin frame #:
 4661
 end frame #:
 4734
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4136
@@ -3637,7 +3850,8 @@ begin frame #:
 4673
 end frame #:
 4857
-min dist to a lyapunov blob=94.0
+min dist to a lyapunov blob:
+94.0
 
 
 plume #4153
@@ -3654,7 +3868,8 @@ begin frame #:
 4687
 end frame #:
 4727
-min dist to a lyapunov blob=40.0
+min dist to a lyapunov blob:
+40.0
 
 
 plume #4184
@@ -3671,7 +3886,8 @@ begin frame #:
 4725
 end frame #:
 4779
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4185
@@ -3688,7 +3904,8 @@ begin frame #:
 4728
 end frame #:
 5016
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4208
@@ -3705,7 +3922,8 @@ begin frame #:
 4748
 end frame #:
 4817
-min dist to a lyapunov blob=41.0
+min dist to a lyapunov blob:
+41.0
 
 
 plume #4212
@@ -3722,7 +3940,8 @@ begin frame #:
 4751
 end frame #:
 4925
-min dist to a lyapunov blob=109.0
+min dist to a lyapunov blob:
+109.0
 
 
 plume #4312
@@ -3739,7 +3958,8 @@ begin frame #:
 4879
 end frame #:
 5917
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4318
@@ -3756,7 +3976,8 @@ begin frame #:
 4891
 end frame #:
 5088
-min dist to a lyapunov blob=197.0
+min dist to a lyapunov blob:
+197.0
 
 
 plume #4327
@@ -3773,7 +3994,8 @@ begin frame #:
 4902
 end frame #:
 5004
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4336
@@ -3790,7 +4012,8 @@ begin frame #:
 4908
 end frame #:
 5267
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4337
@@ -3807,7 +4030,8 @@ begin frame #:
 4911
 end frame #:
 4937
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4339
@@ -3824,7 +4048,8 @@ begin frame #:
 4915
 end frame #:
 5117
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4371
@@ -3841,7 +4066,8 @@ begin frame #:
 4938
 end frame #:
 4953
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4415
@@ -3858,7 +4084,8 @@ begin frame #:
 4980
 end frame #:
 5021
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4422
@@ -3875,7 +4102,8 @@ begin frame #:
 4988
 end frame #:
 5085
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4436
@@ -3892,7 +4120,8 @@ begin frame #:
 4997
 end frame #:
 5408
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4464
@@ -3909,7 +4138,8 @@ begin frame #:
 5019
 end frame #:
 5070
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4490
@@ -3926,7 +4156,8 @@ begin frame #:
 5031
 end frame #:
 5156
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4524
@@ -3943,7 +4174,8 @@ begin frame #:
 5057
 end frame #:
 5153
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4528
@@ -3960,7 +4192,8 @@ begin frame #:
 5061
 end frame #:
 5167
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4532
@@ -3977,7 +4210,8 @@ begin frame #:
 5066
 end frame #:
 5117
-min dist to a lyapunov blob=4.0
+min dist to a lyapunov blob:
+4.0
 
 
 plume #4586
@@ -3994,7 +4228,8 @@ begin frame #:
 5115
 end frame #:
 5225
-min dist to a lyapunov blob=95.0
+min dist to a lyapunov blob:
+95.0
 
 
 plume #4624
@@ -4011,7 +4246,8 @@ begin frame #:
 5150
 end frame #:
 5308
-min dist to a lyapunov blob=78.0
+min dist to a lyapunov blob:
+78.0
 
 
 plume #4654
@@ -4028,7 +4264,8 @@ begin frame #:
 5183
 end frame #:
 5378
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4655
@@ -4045,7 +4282,8 @@ begin frame #:
 5186
 end frame #:
 5226
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4715
@@ -4062,7 +4300,8 @@ begin frame #:
 5272
 end frame #:
 5291
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4827
@@ -4079,7 +4318,8 @@ begin frame #:
 5396
 end frame #:
 5443
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4886
@@ -4096,7 +4336,8 @@ begin frame #:
 5441
 end frame #:
 5531
-min dist to a lyapunov blob=90.0
+min dist to a lyapunov blob:
+90.0
 
 
 plume #4957
@@ -4113,7 +4354,8 @@ begin frame #:
 5498
 end frame #:
 5601
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4984
@@ -4130,7 +4372,8 @@ begin frame #:
 5546
 end frame #:
 5671
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #4994
@@ -4147,7 +4390,8 @@ begin frame #:
 5558
 end frame #:
 5703
-min dist to a lyapunov blob=125.0
+min dist to a lyapunov blob:
+125.0
 
 
 plume #5016
@@ -4164,7 +4408,8 @@ begin frame #:
 5570
 end frame #:
 5605
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5029
@@ -4181,7 +4426,8 @@ begin frame #:
 5588
 end frame #:
 5915
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5030
@@ -4198,7 +4444,8 @@ begin frame #:
 5588
 end frame #:
 5670
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5045
@@ -4215,7 +4462,8 @@ begin frame #:
 5600
 end frame #:
 5663
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5081
@@ -4232,7 +4480,8 @@ begin frame #:
 5638
 end frame #:
 5708
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5098
@@ -4249,7 +4498,8 @@ begin frame #:
 5655
 end frame #:
 5707
-min dist to a lyapunov blob=52.0
+min dist to a lyapunov blob:
+52.0
 
 
 plume #5102
@@ -4266,7 +4516,8 @@ begin frame #:
 5659
 end frame #:
 5709
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5125
@@ -4283,7 +4534,8 @@ begin frame #:
 5681
 end frame #:
 5924
-min dist to a lyapunov blob=1.0
+min dist to a lyapunov blob:
+1.0
 
 
 plume #5145
@@ -4300,7 +4552,8 @@ begin frame #:
 5707
 end frame #:
 5744
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5169
@@ -4317,7 +4570,8 @@ begin frame #:
 5744
 end frame #:
 5780
-min dist to a lyapunov blob=33.0
+min dist to a lyapunov blob:
+33.0
 
 
 plume #5185
@@ -4334,7 +4588,8 @@ begin frame #:
 5773
 end frame #:
 5832
-min dist to a lyapunov blob=43.0
+min dist to a lyapunov blob:
+43.0
 
 
 plume #5190
@@ -4351,7 +4606,8 @@ begin frame #:
 5783
 end frame #:
 5804
-min dist to a lyapunov blob=21.0
+min dist to a lyapunov blob:
+21.0
 
 
 plume #5236
@@ -4368,7 +4624,8 @@ begin frame #:
 5841
 end frame #:
 5939
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5262
@@ -4385,7 +4642,8 @@ begin frame #:
 5876
 end frame #:
 6481
-min dist to a lyapunov blob=22.0
+min dist to a lyapunov blob:
+22.0
 
 
 plume #5315
@@ -4402,7 +4660,8 @@ begin frame #:
 5929
 end frame #:
 6772
-min dist to a lyapunov blob=48.0
+min dist to a lyapunov blob:
+48.0
 
 
 plume #5325
@@ -4419,7 +4678,8 @@ begin frame #:
 5943
 end frame #:
 5996
-min dist to a lyapunov blob=53.0
+min dist to a lyapunov blob:
+53.0
 
 
 plume #5331
@@ -4436,7 +4696,8 @@ begin frame #:
 5958
 end frame #:
 6248
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5337
@@ -4453,7 +4714,8 @@ begin frame #:
 5966
 end frame #:
 5994
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5399
@@ -4470,7 +4732,8 @@ begin frame #:
 6034
 end frame #:
 6050
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5411
@@ -4487,7 +4750,8 @@ begin frame #:
 6049
 end frame #:
 6090
-min dist to a lyapunov blob=41.0
+min dist to a lyapunov blob:
+41.0
 
 
 plume #5456
@@ -4504,7 +4768,8 @@ begin frame #:
 6089
 end frame #:
 6127
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5463
@@ -4521,7 +4786,8 @@ begin frame #:
 6094
 end frame #:
 6289
-min dist to a lyapunov blob=118.0
+min dist to a lyapunov blob:
+118.0
 
 
 plume #5464
@@ -4538,7 +4804,8 @@ begin frame #:
 6095
 end frame #:
 6151
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5492
@@ -4555,7 +4822,8 @@ begin frame #:
 6121
 end frame #:
 6165
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5505
@@ -4572,7 +4840,8 @@ begin frame #:
 6142
 end frame #:
 7131
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5515
@@ -4589,7 +4858,8 @@ begin frame #:
 6149
 end frame #:
 6199
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5528
@@ -4606,7 +4876,8 @@ begin frame #:
 6168
 end frame #:
 6286
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5552
@@ -4623,7 +4894,8 @@ begin frame #:
 6188
 end frame #:
 6243
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5599
@@ -4640,7 +4912,8 @@ begin frame #:
 6226
 end frame #:
 6316
-min dist to a lyapunov blob=45.0
+min dist to a lyapunov blob:
+45.0
 
 
 plume #5680
@@ -4657,7 +4930,8 @@ begin frame #:
 6316
 end frame #:
 6451
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5688
@@ -4674,7 +4948,8 @@ begin frame #:
 6324
 end frame #:
 6354
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5733
@@ -4691,7 +4966,8 @@ begin frame #:
 6395
 end frame #:
 6453
-min dist to a lyapunov blob=16.0
+min dist to a lyapunov blob:
+16.0
 
 
 plume #5779
@@ -4708,7 +4984,8 @@ begin frame #:
 6456
 end frame #:
 6729
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5877
@@ -4725,7 +5002,8 @@ begin frame #:
 6602
 end frame #:
 6630
-min dist to a lyapunov blob=20.0
+min dist to a lyapunov blob:
+20.0
 
 
 plume #5881
@@ -4742,7 +5020,8 @@ begin frame #:
 6609
 end frame #:
 6688
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5896
@@ -4759,7 +5038,8 @@ begin frame #:
 6628
 end frame #:
 7494
-min dist to a lyapunov blob=12.0
+min dist to a lyapunov blob:
+12.0
 
 
 plume #5900
@@ -4776,7 +5056,8 @@ begin frame #:
 6637
 end frame #:
 6685
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5910
@@ -4793,7 +5074,8 @@ begin frame #:
 6648
 end frame #:
 6683
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5911
@@ -4810,7 +5092,8 @@ begin frame #:
 6649
 end frame #:
 6718
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5917
@@ -4827,7 +5110,8 @@ begin frame #:
 6663
 end frame #:
 6761
-min dist to a lyapunov blob=5.0
+min dist to a lyapunov blob:
+5.0
 
 
 plume #5967
@@ -4844,7 +5128,8 @@ begin frame #:
 6733
 end frame #:
 6761
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #5975
@@ -4861,7 +5146,8 @@ begin frame #:
 6743
 end frame #:
 6889
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6013
@@ -4878,7 +5164,8 @@ begin frame #:
 6790
 end frame #:
 6859
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6030
@@ -4895,7 +5182,8 @@ begin frame #:
 6818
 end frame #:
 7234
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6035
@@ -4912,7 +5200,8 @@ begin frame #:
 6825
 end frame #:
 6871
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6080
@@ -4929,7 +5218,8 @@ begin frame #:
 6881
 end frame #:
 6935
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6096
@@ -4946,13 +5236,15 @@ begin frame #:
 6900
 end frame #:
 7307
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6129
 dark plume (H0)
 birth coordinates:
 [169, 166, 163, 160, 157, 153, 150, 146, 141, 137, 133, 128, 124, 120, 116, 112, 109, 106, 103, 101, 98, 96, 94, 93, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 81, 80, 79, 78, 77, 77, 76, 75, 75, 74, 73, 73, 72, 72, 71, 71, 70, 70, 69, 69, 69, 68, 68, 67, 67, 67, 66, 66, 66, 65, 65, 65, 65, 64, 64, 64, 64, 64, 63, 63, 63, 63, 63, 62, 62, 62, 62, 62, 62, 62, 62, 61, 61, 61, 61, 61, 61, 61, 60, 60, 60, 60, 60, 60, 60, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 58, 58, 58, 58, 58, 58, 58, 58, 58, 57, 57, 57, 57, 57, 57, 56, 56, 56, 56, 56, 56, 56, 56, 55, 55, 55, 55, 55, 55, 54, 54, 54, 54, 54, 54, 53, 53, 53, 53, 53, 53, 53, 53, 53, 52, 52, 52, 52, 52, 52, 52, 51, 51, 51, 51, 51, 51, 50, 50, 50, 50, 50, 50, 50, 50, 50, 49, 49, 49, 49, 49, 49, 49, 49, 48, 48, 48, 48, 48, 48, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 46, 46, 46, 46, 46, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 44, 44, 44, 44, 44, 44, 44, 44, 44, 43, 43, 43, 43, 43, 43, 43, 43, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 41, 41, 41, 41, 41, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 38, 38, 38, 38, 38, 38, 37, 37, 37, 38, 38, 37, 37, 37, 37, 37, 37, 37, 37, 37, 37]
+
 death coordinates:
 [178, 177, 176, 175, 174, 174, 172, 172, 171, 170, 169, 168, 167, 167, 167, 167, 167, 166, 165, 165, 164, 164, 164, 164, 164, 164, 164, 164, 164, 163, 163, 163, 163, 163, 162, 162, 162, 162, 162, 162, 162, 162, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 163, 164, 164, 164, 164, 164, 164, 164, 164, 164, 164, 163, 163, 163, 162, 162, 161, 161, 161, 160, 160, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 158, 158, 158, 157, 157, 156, 156, 156, 155, 155, 154, 154, 154, 155, 155, 155, 155, 155, 155, 155, 155, 155, 155, 154, 154, 154, 153, 153, 153, 152, 152, 151, 151, 151, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 152, 151, 151, 150, 150, 149, 150, 150, 149, 149, 150, 150, 150, 150, 151, 151, 151, 150, 150, 150, 149, 149, 148, 148, 148, 149, 149, 149, 148, 149, 149, 150, 150, 149, 149, 148, 148, 148, 148, 148, 148, 148, 149, 149, 149, 149, 148, 149, 148, 148, 147, 148, 148, 148, 148, 147, 148, 149, 149, 149, 148, 148, 148, 147, 148, 148, 149, 149, 148, 147, 148, 148, 148, 148, 149, 148, 147, 148, 148, 148, 148, 148, 148, 147, 148, 148, 149, 148, 147, 147, 147, 147, 147, 146, 147, 147, 146, 146, 147, 147, 146, 146, 147, 146, 146, 145, 144, 144, 144, 144, 144, 144, 144, 143, 144, 144, 143, 143, 142, 142, 141, 140, 139, 139, 139, 138, 138, 138, 137, 137, 137, 136, 135, 134, 134, 132, 131, 130, 129, 127, 125, 123, 121, 119, 116, 113, 111, 109, 105, 103, 100, 99, 98, 98, 97, 96, 95, 94, 92, 91, 89, 87, 85]
 b_x coordinates:
@@ -4963,7 +5255,8 @@ begin frame #:
 6947
 end frame #:
 7256
-min dist to a lyapunov blob=25.0
+min dist to a lyapunov blob:
+25.0
 
 
 plume #6134
@@ -4980,7 +5273,8 @@ begin frame #:
 6952
 end frame #:
 7251
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6137
@@ -4997,7 +5291,8 @@ begin frame #:
 6955
 end frame #:
 7356
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6146
@@ -5014,7 +5309,8 @@ begin frame #:
 6964
 end frame #:
 7079
-min dist to a lyapunov blob=115.0
+min dist to a lyapunov blob:
+115.0
 
 
 plume #6170
@@ -5031,7 +5327,8 @@ begin frame #:
 6985
 end frame #:
 7138
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6257
@@ -5048,12 +5345,12 @@ begin frame #:
 7134
 end frame #:
 7541
-min dist to a lyapunov blob=234.0
+min dist to a lyapunov blob:
+234.0
 
 
 plume #6259
 dark plume (H0)
-
 birth coordinates:
 [54, 54, 54, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 51, 51, 51, 51, 51, 51, 50, 50, 50, 50, 50, 49, 49, 49, 49, 49, 48, 48, 48, 48, 48, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 46, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43]
 death coordinates:
@@ -5066,7 +5363,8 @@ begin frame #:
 7137
 end frame #:
 7702
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6275
@@ -5083,7 +5381,8 @@ begin frame #:
 7178
 end frame #:
 7346
-min dist to a lyapunov blob=7.0
+min dist to a lyapunov blob:
+7.0
 
 
 plume #6311
@@ -5100,7 +5399,8 @@ begin frame #:
 7239
 end frame #:
 7305
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6336
@@ -5117,7 +5417,8 @@ begin frame #:
 7269
 end frame #:
 7356
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6384
@@ -5134,7 +5435,8 @@ begin frame #:
 7308
 end frame #:
 7481
-min dist to a lyapunov blob=37.0
+min dist to a lyapunov blob:
+37.0
 
 
 plume #6390
@@ -5151,7 +5453,8 @@ begin frame #:
 7312
 end frame #:
 7505
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6392
@@ -5168,7 +5471,8 @@ begin frame #:
 7314
 end frame #:
 7496
-min dist to a lyapunov blob=89.0
+min dist to a lyapunov blob:
+89.0
 
 
 plume #6503
@@ -5185,7 +5489,8 @@ begin frame #:
 7453
 end frame #:
 7480
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6558
@@ -5202,7 +5507,8 @@ begin frame #:
 7523
 end frame #:
 7714
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6562
@@ -5219,7 +5525,8 @@ begin frame #:
 7527
 end frame #:
 7597
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6648
@@ -5236,7 +5543,8 @@ begin frame #:
 7611
 end frame #:
 8649
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6655
@@ -5253,7 +5561,8 @@ begin frame #:
 7622
 end frame #:
 7828
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6741
@@ -5270,7 +5579,8 @@ begin frame #:
 7743
 end frame #:
 7806
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6767
@@ -5287,7 +5597,8 @@ begin frame #:
 7780
 end frame #:
 7964
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6789
@@ -5304,7 +5615,8 @@ begin frame #:
 7811
 end frame #:
 7820
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6888
@@ -5321,7 +5633,8 @@ begin frame #:
 7977
 end frame #:
 8147
-min dist to a lyapunov blob=79.0
+min dist to a lyapunov blob:
+79.0
 
 
 plume #6903
@@ -5338,7 +5651,8 @@ begin frame #:
 7993
 end frame #:
 8065
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6926
@@ -5355,7 +5669,8 @@ begin frame #:
 8020
 end frame #:
 8102
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6957
@@ -5372,7 +5687,8 @@ begin frame #:
 8063
 end frame #:
 8152
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6958
@@ -5389,7 +5705,8 @@ begin frame #:
 8065
 end frame #:
 8081
-min dist to a lyapunov blob=16.0
+min dist to a lyapunov blob:
+16.0
 
 
 plume #6959
@@ -5406,7 +5723,8 @@ begin frame #:
 8066
 end frame #:
 8117
-min dist to a lyapunov blob=12.0
+min dist to a lyapunov blob:
+12.0
 
 
 plume #6961
@@ -5423,7 +5741,8 @@ begin frame #:
 8072
 end frame #:
 8173
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6967
@@ -5440,7 +5759,8 @@ begin frame #:
 8076
 end frame #:
 8456
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #6985
@@ -5457,7 +5777,8 @@ begin frame #:
 8104
 end frame #:
 8157
-min dist to a lyapunov blob=33.0
+min dist to a lyapunov blob:
+33.0
 
 
 plume #7015
@@ -5474,7 +5795,8 @@ begin frame #:
 8139
 end frame #:
 8194
-min dist to a lyapunov blob=17.0
+min dist to a lyapunov blob:
+17.0
 
 
 plume #7088
@@ -5491,7 +5813,8 @@ begin frame #:
 8215
 end frame #:
 8266
-min dist to a lyapunov blob=44.0
+min dist to a lyapunov blob:
+44.0
 
 
 plume #7137
@@ -5508,7 +5831,8 @@ begin frame #:
 8285
 end frame #:
 8360
-min dist to a lyapunov blob=75.0
+min dist to a lyapunov blob:
+75.0
 
 
 plume #7174
@@ -5525,7 +5849,8 @@ begin frame #:
 8360
 end frame #:
 8450
-min dist to a lyapunov blob=12.0
+min dist to a lyapunov blob:
+12.0
 
 
 plume #7182
@@ -5542,7 +5867,8 @@ begin frame #:
 8369
 end frame #:
 8503
-min dist to a lyapunov blob=127.0
+min dist to a lyapunov blob:
+127.0
 
 
 plume #7186
@@ -5559,7 +5885,8 @@ begin frame #:
 8373
 end frame #:
 8411
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7202
@@ -5576,7 +5903,8 @@ begin frame #:
 8395
 end frame #:
 8533
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7224
@@ -5593,7 +5921,8 @@ begin frame #:
 8423
 end frame #:
 8527
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7252
@@ -5610,7 +5939,8 @@ begin frame #:
 8454
 end frame #:
 8490
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7275
@@ -5627,7 +5957,8 @@ begin frame #:
 8487
 end frame #:
 8594
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7287
@@ -5644,7 +5975,8 @@ begin frame #:
 8499
 end frame #:
 8552
-min dist to a lyapunov blob=53.0
+min dist to a lyapunov blob:
+53.0
 
 
 plume #7333
@@ -5661,7 +5993,8 @@ begin frame #:
 8536
 end frame #:
 8590
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7336
@@ -5678,7 +6011,8 @@ begin frame #:
 8541
 end frame #:
 8594
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7342
@@ -5695,7 +6029,8 @@ begin frame #:
 8547
 end frame #:
 8594
-min dist to a lyapunov blob=47.0
+min dist to a lyapunov blob:
+47.0
 
 
 plume #7357
@@ -5712,7 +6047,8 @@ begin frame #:
 8566
 end frame #:
 8732
-min dist to a lyapunov blob=154.0
+min dist to a lyapunov blob:
+154.0
 
 
 plume #7405
@@ -5729,7 +6065,8 @@ begin frame #:
 8636
 end frame #:
 8683
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7414
@@ -5746,7 +6083,8 @@ begin frame #:
 8650
 end frame #:
 8998
-min dist to a lyapunov blob=35.0
+min dist to a lyapunov blob:
+35.0
 
 
 plume #7436
@@ -5763,7 +6101,8 @@ begin frame #:
 8675
 end frame #:
 8998
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7445
@@ -5780,7 +6119,8 @@ begin frame #:
 8689
 end frame #:
 8805
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7505
@@ -5797,7 +6137,8 @@ begin frame #:
 8752
 end frame #:
 8892
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7539
@@ -5814,7 +6155,8 @@ begin frame #:
 8783
 end frame #:
 8851
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7553
@@ -5831,7 +6173,8 @@ begin frame #:
 8806
 end frame #:
 8998
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 
 plume #7573
@@ -5848,7 +6191,8 @@ begin frame #:
 8836
 end frame #:
 8998
-min dist to a lyapunov blob=152.0
+min dist to a lyapunov blob:
+152.0
 
 
 plume #7616
@@ -5865,7 +6209,8 @@ begin frame #:
 8875
 end frame #:
 8900
-min dist to a lyapunov blob=0.0
+min dist to a lyapunov blob:
+0.0
 
 ​
 
