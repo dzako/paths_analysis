@@ -13,11 +13,11 @@ import re
 
 #checkes if a point of a given index is at the end of any path stored in 
 #the provided list of paths
-def alreadyinpath(idx, current_frame, paths):
+def alreadyinpath(idx, current_frame, dim, paths):
     i = 0    
     for j in range( len(paths) ):        
         path = paths[j][0]
-        if path[-1] == idx and current_frame == paths[j][2]:
+        if path[-1] == idx and current_frame == paths[j][2] and dim == paths[j][3]:
             return i
         i += 1
     return -1
@@ -27,6 +27,8 @@ def alreadyinpath(idx, current_frame, paths):
 #translates string to the corresponding integer index
 def ind(string):
     if( string == 'dim' ):
+        return 3
+    if( string == 'subp' ):
         return 3
     if( string == 'birth' ):
         return 4
@@ -61,8 +63,24 @@ def ind(string):
 
 def load_paths(matchcvsdir):
     matches_sub = []
-    #fills out the list of arrays with data loaded from csvs
+    
+	#fills out the list of arrays with data loaded from csvs
+    # for filen in sorted( os.listdir(matchcvsdir) ):        
+        # m = re.match('(\d+)_sub.csv', filen)
+        # cntsub = 0
+        # if(m):            
+            # framei = (int)(m.group(1))
+            # matches_sub_loc = []  
+            # datasub = pd.read_csv( matchcvsdir + filen )
+            # for cntsub in range( 0,datasub.shape[0] ):            
+                # matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], datasub.loc[cntsub, 'dim'], datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'], datasub.loc[cntsub, 'b_x'], datasub.loc[cntsub, 'b_y'], datasub.loc[cntsub, 'd_x'], datasub.loc[cntsub, 'd_y'] ])
+            # matches_sub_loc = np.asarray(matches_sub_loc)
+            # matches_sub.append(matches_sub_loc)
+    debug = 0
     for filen in sorted( os.listdir(matchcvsdir) ):        
+        debug += 1    
+#        if(debug == 1000):
+#           break
         m = re.match('(\d+)_sub.csv', filen)
         cntsub = 0
         if(m):            
@@ -70,9 +88,26 @@ def load_paths(matchcvsdir):
             matches_sub_loc = []  
             datasub = pd.read_csv( matchcvsdir + filen )
             for cntsub in range( 0,datasub.shape[0] ):            
-                matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], datasub.loc[cntsub, 'dim'], datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'], datasub.loc[cntsub, 'b_x'], datasub.loc[cntsub, 'b_y'], datasub.loc[cntsub, 'd_x'], datasub.loc[cntsub, 'd_y'] ])
+                if(datasub.loc[cntsub, 'dim'] == 1):
+                    matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], 1, datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'], datasub.loc[cntsub, 'b_x'], datasub.loc[cntsub, 'b_y'], datasub.loc[cntsub, 'd_x'], datasub.loc[cntsub, 'd_y'] ])
             matches_sub_loc = np.asarray(matches_sub_loc)
-            matches_sub.append(matches_sub_loc)
+            matches_sub.append(matches_sub_loc)		
+    debug = 0        
+    for filen in sorted( os.listdir(matchcvsdir) ):        
+       debug +=1
+#       if(debug == 1000):
+#           break
+       m = re.match('(\d+)_sup.csv', filen)
+       cntsub = 0
+       if(m):        
+           framei = (int)(m.group(1))
+           matches_sub_loc = []  
+           datasub = pd.read_csv( matchcvsdir + filen )
+           for cntsub in range( 0,datasub.shape[0] ):            
+               if(datasub.loc[cntsub, 'dim'] == 1):
+                   matches_sub_loc.append([ framei, datasub.loc[cntsub, 'idx'], 0, datasub.loc[cntsub, 'birth'], datasub.loc[cntsub, 'death'], datasub.loc[cntsub, 'b_lyap'], datasub.loc[cntsub, 'd_lyap'], datasub.loc[cntsub, 'matchedidx'], datasub.loc[cntsub, 'matchedbirth'], datasub.loc[cntsub, 'matcheddeath'], datasub.loc[cntsub, 'b_x'], datasub.loc[cntsub, 'b_y'], datasub.loc[cntsub, 'd_x'], datasub.loc[cntsub, 'd_y'] ])
+           matches_sub_loc = np.asarray(matches_sub_loc)
+           matches_sub.append(matches_sub_loc)        
     
     LENT = 9
     paths = [] #list of lists (paths) list storing all data associated with paths 
@@ -85,11 +120,11 @@ def load_paths(matchcvsdir):
         for row in firsta:
             #row[7] row['matchedidx']
             if( row[7] > -1): #the point stored in the row h.as a match in the next frame            
-                ppidx = alreadyinpath( row[1], i, paths)
+                ppidx = alreadyinpath( row[1], row[0], row[2], paths) #row[1] = idx, i =current_frame, row[2]=dim                
                 if(ppidx > -1):
                     paths[ppidx][0].append( row[7] )
                     appind.append( ppidx )                
-                    paths[ppidx][2] = i+1
+                    paths[ppidx][2] = paths[ppidx][2]+1
                     paths[ppidx][ind('birth')].append( row[8])
                     paths[ppidx][ind('death')].append( row[9])
                     paths[ppidx][ind('b_lyap')].append( row[5])
@@ -99,7 +134,8 @@ def load_paths(matchcvsdir):
                     paths[ppidx][ind('d_x')].append(row[12])
                     paths[ppidx][ind('d_y')].append(row[13])
                 else: #create a new path
-                    paths.append( [ [ row[1], row[7] ], i, i+1, row[2], [ row[3], row[8] ], [ row[4], row[9] ], [ row[5] ], [ row[6] ], 0, 0, 0, 0, 0, 0, [ row[10] ], [ row[11] ], [ row[12] ], [ row[13] ] ] )
+                    begin = row[0]
+                    paths.append( [ [ row[1], row[7] ], (int)(begin), (int)(begin)+1, row[2], [ row[3], row[8] ], [ row[4], row[9] ], [ row[5] ], [ row[6] ], 0, 0, 0, 0, 0, 0, [ row[10] ], [ row[11] ], [ row[12] ], [ row[13] ] ] )
                     appind.append(len(paths)-1)                
        
         diff = np.setxor1d( appind, list(range(len(paths))) )
